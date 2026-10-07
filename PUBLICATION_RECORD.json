@@ -1,0 +1,74 @@
+{
+  "schema_version": "riftbound-publication-record-1",
+  "observation_date_utc": "2026-10-07",
+  "repository": "thenailter-sudo/Riftbound-Project",
+  "branch": "main",
+  "approved_snapshot_commit": "43d9ab66410e6b791ce74ec9bf20c3d6ede0b260",
+  "publication_status": "PUBLISHED_AND_READ_BACK_BYTE_IDENTICAL",
+  "method": "GitHub browser after integration write returned 403; GitHub connector readback",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 399,
+      "sha256": "e9e2a99cedb4c6df8c5336c30b8a6c1237eb9ae642c3143e5f7c20263f41ce0c",
+      "git_blob_sha": "591cd6455c05c972f492dfba69cf73640423e1d2"
+    },
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 2415,
+      "sha256": "3f852ce71d7897f4a0c553afb5a4ca4ce435fed388daa4d98185e859315ba9d9",
+      "git_blob_sha": "d9396f2dbb25075240793d7d32968fc5629553dd"
+    },
+    {
+      "path": "HANDOFF_LATEST.md",
+      "size_bytes": 2531,
+      "sha256": "ebf1367ec4ad7d8203220d729396c72c6a60501f3a3aa9787af2801cb4a0a6de",
+      "git_blob_sha": "9baf2bea3c10d83c2ae84dab18398c31de212c19"
+    },
+    {
+      "path": "PROJECT_STATUS.md",
+      "size_bytes": 1450,
+      "sha256": "a1e805eebfb1840e6ef39887ec31cc577ad2d0787281f158c17c34169674e61c",
+      "git_blob_sha": "682602781ccf845980cce1b49210130716a94f0d"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 1409,
+      "sha256": "9852a940a880700c03f8d9950907933dd69bbbaf87a0d6e3c804a285c93d310b",
+      "git_blob_sha": "d001b670028f2dff8c9d319132d48edde2cb7be6"
+    },
+    {
+      "path": "docs/CONTINUITY_BLOCKERS.md",
+      "size_bytes": 1317,
+      "sha256": "f5a64c76a43d7586ab461fc528d902298f1fbbe7bebd509c59dc9231f75fde90",
+      "git_blob_sha": "cedcdada64aac8d7ff6a9f42e2ec603a3054f357"
+    },
+    {
+      "path": "manifests/PROJECT_INDEX.json",
+      "size_bytes": 234240,
+      "sha256": "f01dd1a4179760ca2a390b371f914d9b1c2acf364b415237037b581951c59f81",
+      "git_blob_sha": "4cfeb0ba4b19add363ce363237ad50eff5c7d778"
+    }
+  ],
+  "all_seven_file_contents_match_approved_payload": true,
+  "governance_snapshot_is_historical": true,
+  "stale_proposal_wording": "The seven files were deliberately preserved exactly. Statements describing an unpublished proposal or seeking approval are historical and are superseded for publication status by this record.",
+  "engine_imported": false,
+  "engine_promoted": false,
+  "canonical_task3_checkpoint_resolved": false,
+  "local_lab_conflict_resolved": false,
+  "private_evidence_published": false,
+  "project_tests_run_during_migration_or_recovery": false,
+  "read_only_recovery_audit": {
+    "nine_evidence_objects_hash_verified": true,
+    "draw_task_file_count": 675,
+    "draw_movement_file_count": 694,
+    "all_675_draw_task_files_unchanged_in_draw_movement": true,
+    "historical_test_rosters_static_ast_counts": [
+      312,
+      318
+    ],
+    "fresh_test_result": false
+  },
+  "note": "Additional continuity records are authorized by the user's subsequent instruction to complete recovery and tomorrow's handoff; they do not modify the original seven files or confer engine authority."
+}
